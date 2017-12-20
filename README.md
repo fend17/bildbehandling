@@ -92,7 +92,8 @@ v.50
 
 ### Pass 7 - 15/12
 
-* Mockups
+* Eget arbete
+  * Alexander på plats i klassrummet
 
 ---
 v.51
@@ -104,3 +105,4 @@ v.51
 ### Pass 9 - 22/12
 
 * Eget arbete med gruppuppgift
+    * Alexander på plats i klassrummet 
